@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Administrator.cpp" />
+    <ClCompile Include="AeroPortSystem.cpp" />
+    <ClCompile Include="Aircraft.cpp" />
+    <ClCompile Include="AircraftFactory.cpp" />
+    <ClCompile Include="Airline.cpp" />
+    <ClCompile Include="CargoPlane.cpp" />
+    <ClCompile Include="CommandProcessor.cpp" />
+    <ClCompile Include="Dispatcher.cpp" />
+    <ClCompile Include="Enums.cpp" />
+    <ClCompile Include="Flight.cpp" />
+    <ClCompile Include="Hangar.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Passenger.cpp" />
+    <ClCompile Include="PassengerPlane.cpp" />
+    <ClCompile Include="PrivateJet.cpp" />
+    <ClCompile Include="Runway.cpp" />
+    <ClCompile Include="RunwayBuilder.cpp" />
+    <ClCompile Include="Ticket.cpp" />
+    <ClCompile Include="User.cpp" />
+    <ClCompile Include="Validation.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Administrator.h" />
+    <ClInclude Include="AeroPortSystem.h" />
+    <ClInclude Include="Aircraft.h" />
+    <ClInclude Include="AircraftFactory.h" />
+    <ClInclude Include="Airline.h" />
+    <ClInclude Include="CargoPlane.h" />
+    <ClInclude Include="CommandProcessor.h" />
+    <ClInclude Include="Dispatcher.h" />
+    <ClInclude Include="Enums.h" />
+    <ClInclude Include="Flight.h" />
+    <ClInclude Include="Hangar.h" />
+    <ClInclude Include="Passenger.h" />
+    <ClInclude Include="PassengerPlane.h" />
+    <ClInclude Include="PrivateJet.h" />
+    <ClInclude Include="Runway.h" />
+    <ClInclude Include="RunwayBuilder.h" />
+    <ClInclude Include="Ticket.h" />
+    <ClInclude Include="User.h" />
+    <ClInclude Include="Validation.h" />
+  </ItemGroup>
+</Project>
